@@ -1,2 +1,2 @@
 # MASS_dnn
-A simultaneous feature selection and outlier detection strategy for deep feedforward neural network.
+A strategy for simultaneous feature selection and outlier detection in deep feedforward neural network.
